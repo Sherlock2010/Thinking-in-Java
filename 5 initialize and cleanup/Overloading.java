@@ -1,6 +1,6 @@
 // Demonstration of both constructor
 // and ordinary method overloading
-import static net.mindview.util.*;
+import static net.mindview.util.Print.*;
 
 class Tree {
 	int height;
